@@ -1,0 +1,2 @@
+# memory_bss
+embedded
